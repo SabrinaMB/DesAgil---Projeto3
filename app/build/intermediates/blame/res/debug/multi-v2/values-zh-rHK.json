@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/phelipe/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "outputFile": "/home/warlenrodrigues/Documentos/GitHub/DesAgil---Projeto3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "/home/phelipe/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2d20612767a1939e7908dc7bafffab37/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "/home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39f06929f2219ff135945da3bb609c81/res/values-zh-rHK/values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/phelipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f74dd1a92ff5273bd2a7c05b85b40e2/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "/home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d29bde8a4884544717ff14edc3763793/res/values-zh-rHK/values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

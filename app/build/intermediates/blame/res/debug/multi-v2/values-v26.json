@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/phelipe/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/home/warlenrodrigues/Documentos/GitHub/DesAgil---Projeto3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/home/phelipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f74dd1a92ff5273bd2a7c05b85b40e2/res/values-v26/values-v26.xml",
+                    "source": "/home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d29bde8a4884544717ff14edc3763793/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

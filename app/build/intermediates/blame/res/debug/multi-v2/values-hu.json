@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/home/phelipe/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "/home/warlenrodrigues/Documentos/GitHub/DesAgil---Projeto3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
             "map": [
                 {
-                    "source": "/home/phelipe/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2d20612767a1939e7908dc7bafffab37/res/values-hu/values-hu.xml",
+                    "source": "/home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d29bde8a4884544717ff14edc3763793/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,1938",
+                        "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
+                        "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2016"
+                    }
+                },
+                {
+                    "source": "/home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39f06929f2219ff135945da3bb609c81/res/values-hu/values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "2021",
                         "endColumns": "100",
                         "endOffsets": "2117"
-                    }
-                },
-                {
-                    "source": "/home/phelipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f74dd1a92ff5273bd2a7c05b85b40e2/res/values-hu/values-hu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,1938",
-                        "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
-                        "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2016"
                     }
                 }
             ]

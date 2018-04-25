@@ -1,4 +1,4 @@
-#Sat Apr 21 21:13:23 BRT 2018
-base.0=/home/phelipe/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dexMerger/debug/1
+#Wed Apr 25 14:05:02 BRT 2018
+base.0=/home/warlenrodrigues/Documentos/GitHub/DesAgil---Projeto3/app/build/intermediates/transforms/dexMerger/debug/1
 path.0=classes.dex
 renamed.0=classes.dex

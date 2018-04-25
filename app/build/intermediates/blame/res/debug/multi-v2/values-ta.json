@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/phelipe/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
+            "outputFile": "/home/warlenrodrigues/Documentos/GitHub/DesAgil---Projeto3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml",
             "map": [
                 {
-                    "source": "/home/phelipe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f74dd1a92ff5273bd2a7c05b85b40e2/res/values-ta/values-ta.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,219,324,439,528,635,761,839,916,998,1100,1204,1301,1411,1513,1620,1777,1877",
-                        "endColumns": "113,104,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
-                        "endOffsets": "214,319,434,523,630,756,834,911,993,1095,1199,1296,1406,1508,1615,1772,1872,1952"
-                    }
-                },
-                {
-                    "source": "/home/phelipe/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2d20612767a1939e7908dc7bafffab37/res/values-ta/values-ta.xml",
+                    "source": "/home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/39f06929f2219ff135945da3bb609c81/res/values-ta/values-ta.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1957",
                         "endColumns": "100",
                         "endOffsets": "2053"
+                    }
+                },
+                {
+                    "source": "/home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d29bde8a4884544717ff14edc3763793/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,324,439,528,635,761,839,916,998,1100,1204,1301,1411,1513,1620,1777,1877",
+                        "endColumns": "113,104,114,88,106,125,77,76,81,101,103,96,109,101,106,156,99,79",
+                        "endOffsets": "214,319,434,523,630,756,834,911,993,1095,1199,1296,1406,1508,1615,1772,1872,1952"
                     }
                 }
             ]
