@@ -6,6 +6,7 @@ INJECTED from /home/warlenrodrigues/Documentos/GitHub/DesAgil---Projeto3/app/src
 INJECTED from /home/warlenrodrigues/Documentos/GitHub/DesAgil---Projeto3/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d29bde8a4884544717ff14edc3763793/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d01bb2cc807da4c01b3539b3910cdd37/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/72f2aa06d0edea1c66e948adbfc3f78f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2f2cff0b7d2ee6988bb02051810e8ed2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/011e7c2075e1f32231b4cb2bb19b0917/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a7106fd0b734122365d3cbaa9113ddca/AndroidManifest.xml:17:1-22:12
@@ -71,6 +72,8 @@ MERGED from [com.android.support:appcompat-v7:27.1.1] /home/warlenrodrigues/.gra
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d29bde8a4884544717ff14edc3763793/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d01bb2cc807da4c01b3539b3910cdd37/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d01bb2cc807da4c01b3539b3910cdd37/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/72f2aa06d0edea1c66e948adbfc3f78f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/72f2aa06d0edea1c66e948adbfc3f78f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2f2cff0b7d2ee6988bb02051810e8ed2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2f2cff0b7d2ee6988bb02051810e8ed2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/warlenrodrigues/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/011e7c2075e1f32231b4cb2bb19b0917/AndroidManifest.xml:20:5-44

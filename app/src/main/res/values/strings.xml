@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="sinto_dor">Sinto Dor</string>
+    <string name="tenho_sede">Tenho sede</string>
+    <string name="tenho_fome">Tenho Fome</string>
+    <string name="estou_sujo">Estou sujo</string>
+    <string name="use_esta_tela_para_comunicar_se_com_seu_cuidador">Use esta tela para comunicar-se com seu cuidador.</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
 </resources>

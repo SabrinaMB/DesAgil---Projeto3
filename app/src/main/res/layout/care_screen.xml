@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/carePageText"
+        android:layout_width="match_parent"
+        android:layout_height="178dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="26dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="@string/use_esta_tela_para_comunicar_se_com_seu_cuidador"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="36sp"
+        android:typeface="normal"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <Button
+        android:id="@+id/painButton"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="91dp"
+        android:text="@string/sinto_dor"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/thirstButton"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/painButton"
+        android:layout_centerHorizontal="true"
+        android:text="@string/tenho_sede"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/dirtyButton"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/hungryButton"
+        android:layout_centerHorizontal="true"
+        android:text="@string/estou_sujo"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="72dp" />
+
+    <Button
+        android:id="@+id/hungryButton"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/thirstButton"
+        android:layout_centerHorizontal="true"
+        android:text="@string/tenho_fome"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="72dp" />
+
+</RelativeLayout>
