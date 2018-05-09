@@ -9,14 +9,15 @@
 
     <TextView
         android:id="@+id/carePageText"
-        android:layout_width="match_parent"
+        android:layout_width="358dp"
         android:layout_height="178dp"
-        android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="26dp"
-        android:fontFamily="sans-serif-condensed"
-        android:text="@string/use_esta_tela_para_comunicar_se_com_seu_cuidador"
-        android:textColor="@android:color/darker_gray"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:fontFamily="serif"
+        android:text="Você pode usar essa tela para comunicar-se com seu cuidador."
+        android:textAlignment="center"
+        android:textColor="@color/colorWelcomeMessage"
         android:textSize="36sp"
         android:typeface="normal"
         tools:layout_editor_absoluteX="0dp"
@@ -26,10 +27,11 @@
         android:id="@+id/painButton"
         android:layout_width="240dp"
         android:layout_height="50dp"
-        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="91dp"
-        android:text="@string/sinto_dor"
+        android:layout_marginTop="222dp"
+        android:background="@color/colorButton"
+        android:text="Sinto dor"
         android:textAlignment="center"
         tools:layout_editor_absoluteX="72dp" />
 
@@ -37,9 +39,11 @@
         android:id="@+id/thirstButton"
         android:layout_width="240dp"
         android:layout_height="50dp"
-        android:layout_above="@+id/painButton"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:text="@string/tenho_sede"
+        android:layout_marginBottom="219dp"
+        android:background="@color/colorButton"
+        android:text="Tenho sede"
         android:textAlignment="center"
         tools:layout_editor_absoluteX="72dp" />
 
@@ -47,9 +51,11 @@
         android:id="@+id/dirtyButton"
         android:layout_width="240dp"
         android:layout_height="50dp"
-        android:layout_above="@+id/hungryButton"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:text="@string/estou_sujo"
+        android:layout_marginBottom="65dp"
+        android:background="@color/colorButton"
+        android:text="Estou sujo"
         android:textAlignment="center"
         tools:layout_editor_absoluteX="72dp" />
 
@@ -57,9 +63,11 @@
         android:id="@+id/hungryButton"
         android:layout_width="240dp"
         android:layout_height="50dp"
-        android:layout_above="@+id/thirstButton"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:text="@string/tenho_fome"
+        android:layout_marginBottom="142dp"
+        android:background="@color/colorButton"
+        android:text="Tenho fome"
         android:textAlignment="center"
         tools:layout_editor_absoluteX="72dp" />
 
