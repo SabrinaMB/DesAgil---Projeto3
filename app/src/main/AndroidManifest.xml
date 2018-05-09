@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.phelipe.myapplication">
+    package="com.desagil.grupo.ponto.fabioferrao">
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
 
     <application
         android:allowBackup="true"
@@ -16,6 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".smsToNumber" />
+        <activity android:name=".Morse" />
+        <activity android:name=".careScreen"></activity>
     </application>
 
 </manifest>

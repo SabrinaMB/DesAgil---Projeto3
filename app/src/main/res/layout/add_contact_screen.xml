@@ -17,6 +17,7 @@
         android:layout_marginBottom="24dp"
         android:backgroundTint="@color/colorButton"
         android:contentDescription="@string/todo"
+        android:background="@drawable/button_background"
         app:srcCompat="@android:drawable/ic_dialog_dialer" />
 
     <ImageButton
@@ -28,6 +29,7 @@
         android:backgroundTint="@color/colorButton"
         android:contentDescription="@string/todo"
         android:scaleType="fitCenter"
+        android:background="@drawable/button_background"
         app:srcCompat="@android:drawable/ic_menu_send" />
 
     <ImageButton
@@ -37,6 +39,7 @@
         android:layout_alignTop="@+id/menuButton"
         android:layout_centerHorizontal="true"
         android:contentDescription="@string/todo"
+        android:background="@drawable/button_background"
         app:srcCompat="@color/colorMain" />
 
     <EditText
@@ -47,6 +50,9 @@
 
         android:layout_alignParentTop="true"
         android:layout_marginTop="20dp"
+        android:text="Nome do contato"
+        android:textColor="@color/colorWelcomeMessage"
+        tools:text="@string/nome_do_contato" />
 
     <EditText
         android:id="@+id/contactNumber"
@@ -57,7 +63,10 @@
         android:layout_marginTop="80dp"
         android:ems="10"
         android:hint="@string/n_mero_do_contato"
-        android:inputType="textPersonName|phone" />
+        android:inputType="textPersonName|phone"
+        android:text="Número do contato"
+        android:textColor="@color/colorWelcomeMessage"
+        tools:text="@string/n_mero_do_contato" />
 
     <ImageButton
         android:id="@+id/morseInfoButton"

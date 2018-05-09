@@ -1,21 +1,15 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">FabioFerrao</string>
     <string name="sinto_dor">Sinto Dor</string>
     <string name="tenho_sede">Tenho sede</string>
     <string name="tenho_fome">Tenho Fome</string>
     <string name="estou_sujo">Estou sujo</string>
     <string name="use_esta_tela_para_comunicar_se_com_seu_cuidador">Use esta tela para comunicar-se com seu cuidador.</string>
     <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
     <string name="ol_fabio_ferr_o_hoje_quarta_feira_que_seu_dia_seja_incr_vel">Olá, Fabio Ferrão. Hoje é quarta-feira. Que seu dia seja incrível!</string>
     <string name="avisos_ao_cuidador">Avisos ao Cuidador</string>
     <string name="fale_com_amigos">Fale com Amigos</string>
     <string name="adicione_contatos">Adicione Contatos</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
     <string name="n_mero_do_contato">Número do Contato</string>
     <string name="nome_do_contato">Nome do Contato</string>
-    <string name="todo">TODO</string>
 </resources>

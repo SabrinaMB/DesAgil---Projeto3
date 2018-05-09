@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Wed Apr 25 14:05:03 BRT 2018
-1.base=/home/warlenrodrigues/Documentos/GitHub/DesAgil---Projeto3/app/build/intermediates/transforms/dexMerger/debug/12
+#Wed May 09 16:44:47 BRT 2018
+1.base=C\:\\Users\\matte\\AndroidStudioProjects\\FabioFerrao\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\42
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=classes.dex
 0.set=DEX
-0.base=/home/warlenrodrigues/Documentos/GitHub/DesAgil---Projeto3/app/build/intermediates/transforms/dexMerger/debug/11
+0.base=C\:\\Users\\matte\\AndroidStudioProjects\\FabioFerrao\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\43
 1.path=classes.dex
