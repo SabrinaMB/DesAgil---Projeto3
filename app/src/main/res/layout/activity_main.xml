@@ -28,14 +28,9 @@
         android:layout_alignParentEnd="true"
         android:layout_alignTop="@+id/addContact"
         android:layout_marginEnd="30dp"
-<<<<<<< HEAD
+
         android:background="@color/colorMain"
         app:srcCompat="@android:drawable/ic_dialog_alert" />
-=======
-        android:background="@color/colorPrimary"
-        app:srcCompat="@android:drawable/ic_dialog_alert"
-        android:contentDescription="@string/todo" />
->>>>>>> 63dd89c523d25e78dc1f0f23d26fcfd11115f7c0
 
     <ImageButton
         android:id="@+id/sendMessage"
@@ -43,15 +38,11 @@
         android:layout_height="65dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-<<<<<<< HEAD
+
         android:layout_marginBottom="174dp"
         android:background="@color/colorMain"
         app:srcCompat="@android:drawable/ic_dialog_email" />
-=======
-        android:background="@color/colorPrimary"
-        app:srcCompat="@android:drawable/ic_dialog_email"
-        android:contentDescription="@string/todo" />
->>>>>>> 63dd89c523d25e78dc1f0f23d26fcfd11115f7c0
+
 
     <TextView
         android:id="@+id/welcomeText"
@@ -60,17 +51,12 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-<<<<<<< HEAD
+
         android:fontFamily="serif"
         android:text="Olá, Fabio Ferrão. Hoje é quarta-feira. Que seu dia seja incrível!"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textColor="@color/colorWelcomeMessage"
-=======
-        android:fontFamily="sans-serif-condensed"
-        android:text="@string/ol_fabio_ferr_o_hoje_quarta_feira_que_seu_dia_seja_incr_vel"
-        android:textColor="@android:color/darker_gray"
->>>>>>> 63dd89c523d25e78dc1f0f23d26fcfd11115f7c0
         android:textSize="36sp"
         android:typeface="sans" />
 
@@ -80,13 +66,9 @@
         android:layout_height="57dp"
         android:layout_alignParentBottom="true"
         android:layout_alignStart="@+id/careAlert"
-<<<<<<< HEAD
+
         android:layout_marginBottom="106dp"
         android:text="Avisos ao Cuidador"
-=======
-        android:layout_alignTop="@+id/addContactLabel2"
-        android:text="@string/avisos_ao_cuidador"
->>>>>>> 63dd89c523d25e78dc1f0f23d26fcfd11115f7c0
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textSize="18sp"
@@ -109,13 +91,8 @@
         android:layout_width="96dp"
         android:layout_height="57dp"
         android:layout_alignStart="@+id/addContact"
-<<<<<<< HEAD
         android:layout_alignTop="@+id/careAlertLabel"
         android:text="Adicione Contatos"
-=======
-        android:layout_marginBottom="85dp"
-        android:text="@string/adicione_contatos"
->>>>>>> 63dd89c523d25e78dc1f0f23d26fcfd11115f7c0
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textSize="18sp"
