@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="layout_circle">180dp</dimen>
-    <dimen name="layout_circle2">95dp</dimen>
-    <dimen name="margem_tela">24dp</dimen>
-</resources>
