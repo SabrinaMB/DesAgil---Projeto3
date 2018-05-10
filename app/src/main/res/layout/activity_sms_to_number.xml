@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorMain"
+    android:orientation="vertical"
+    tools:context=".smsToNumber">
+
+    <TextView
+        android:id="@+id/num_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editNum_example"
+        android:layout_alignParentStart="true"
+        android:cursorVisible="true"
+        android:padding="10sp"
+        android:text="Telefone:"
+        android:textAllCaps="true"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:cursorVisible="true"
+        android:padding="10sp"
+        android:text="Mensagem:"
+        android:textAllCaps="true"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edit_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/text_example"
+        android:cursorVisible="false"
+        android:backgroundTint="@color/colorPrimary"
+        android:hint="Digite sua mensagem aqui. . . " />
+
+    <EditText
+        android:id="@+id/editNum_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:cursorVisible="false"
+        android:backgroundTint="@color/colorPrimary"
+        android:hint="Digite o Telefone aqui. . ."
+        android:inputType="number" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="239dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:adjustViewBounds="true"
+        android:background="@color/colorButton" />
+
+    <ImageButton
+        android:id="@+id/button_Morse"
+        android:layout_width="@dimen/layout_circle"
+        android:layout_height="@dimen/layout_circle"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:elevation="0dp"
+        android:scaleType="fitXY"
+        android:tint="@color/colorButton"
+        android:background="@drawable/button_background"
+        android:visibility="visible"
+        app:srcCompat="@drawable/circulo" />
+
+    <ImageButton
+        android:id="@+id/button_1"
+        android:layout_width="@dimen/layout_circle2"
+        android:layout_height="@dimen/layout_circle"
+        android:layout_alignTop="@+id/button_Morse"
+        android:layout_toStartOf="@+id/button_Morse"
+        android:scaleType="fitXY"
+        android:tint="@color/colorButton"
+        android:background="@drawable/button_background"
+        app:srcCompat="@drawable/lua1" />
+
+    <ImageButton
+        android:id="@+id/button_2"
+        android:layout_width="@dimen/layout_circle2"
+        android:layout_height="@dimen/layout_circle"
+        android:layout_alignTop="@+id/button_Morse"
+        android:layout_toEndOf="@+id/button_Morse"
+        android:scaleType="fitXY"
+        android:tint="@color/colorButton"
+        android:background="@drawable/button_background"
+        app:srcCompat="@drawable/lua2" />
+
+    <ImageButton
+        android:id="@+id/Button_3"
+        android:layout_width="122dp"
+        android:layout_height="32dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp"
+        android:tint="@color/colorButton"
+        android:background="@drawable/button_background"
+        app:srcCompat="@drawable/circulo" />
+
+    <TextView
+        android:id="@+id/textViewDot"
+        android:layout_width="33dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/Button_3"
+        android:layout_marginStart="139dp"
+        android:layout_marginTop="1dp"
+        android:text="A"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewLine"
+        android:layout_width="33dp"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/Button_3"
+        android:layout_marginEnd="139dp"
+        android:text="A"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

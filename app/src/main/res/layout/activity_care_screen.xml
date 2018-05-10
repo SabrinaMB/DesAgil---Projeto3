@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/carePageText"
+        android:layout_width="358dp"
+        android:layout_height="178dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:fontFamily="serif"
+        android:text="Você pode usar essa tela para comunicar-se com seu cuidador."
+        android:textAlignment="center"
+        android:textColor="@color/colorWelcomeMessage"
+        android:textSize="36sp"
+        android:typeface="normal"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:text="@string/use_esta_tela_para_comunicar_se_com_seu_cuidador" />
+
+    <Button
+        android:id="@+id/painButton"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="231dp"
+        android:background="@drawable/button_background"
+        android:text="Sinto dor"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="72dp"
+        tools:text="@string/sinto_dor" />
+
+    <Button
+        android:id="@+id/thirstButton"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="172dp"
+        android:background="@drawable/button_background"
+        android:text="Tenho sede"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="72dp"
+        tools:text="@string/tenho_sede" />
+
+    <Button
+        android:id="@+id/dirtyButton"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="58dp"
+        android:background="@drawable/button_background"
+        android:text="Estou sujo"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="72dp"
+        tools:text="@string/estou_sujo" />
+
+    <Button
+        android:id="@+id/hungryButton"
+        android:layout_width="240dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="115dp"
+        android:background="@drawable/button_background"
+        android:text="Tenho fome"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="72dp"
+        tools:text="@string/tenho_fome" />
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="229dp"
+        android:background="@drawable/button_background"
+        android:text="Voltar" />
+
+</RelativeLayout>
